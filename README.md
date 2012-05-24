@@ -1,4 +1,3 @@
-vegantriathlete.github.com
-==========================
+I don't have any idea what I'm doing.
 
-Well, if some of the Lullabot's are doing it . . .
+Maybe some day this will contain something useful.
