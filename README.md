@@ -1,12 +1,10 @@
-I don't have any idea what I'm doing.
-
-Maybe some day this will contain something useful.
-
-Edit: Now I see what this repo is meant to do -- My very own page on github.com!
-I guess I've got to clone it into my local repo and start adding an index.html.
-It seems that since this README already exists, I can edit inline. But, I don't see a way to add another file
-directly through the github interface.
+I see what this repo is meant to do -- My very own page on github.com!
 
 Hooray! I cloned the repo onto my local machine. I created an index.html, committed it and pushed it.
 
 More information on building user pages at pages.github.com
+
+Don't count on anything useful appearing here, ever. This is a sandbox for
+my own learning about what I can do on github.
+
+Feel free to post your thoughts in the wiki or file an issue, though ;-)
