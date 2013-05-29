@@ -9,4 +9,4 @@ my own learning about what I can do on github.
 
 Feel free to post your thoughts in the wiki or file an issue, though ;-)
 
-I am testing whether my github settings (specifically my key pair) is still working properly. Let's see if I can commit and push this change. BTW, I needed to sudo vi this file since it was owned by root ;-( Why do I have it set up that way? I don't know and I don't feel like chown'ing or chgrp'ing it right now.
+Okay, that screwed things up running as root. So, I have chown'ed -R to get things set to my user account. Let's see what happens now.
