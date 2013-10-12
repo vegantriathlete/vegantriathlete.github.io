@@ -1,4 +1,4 @@
-I see what this repo is meant to do -- My very own page on github.com!
+I see what this repo is meant to do -- My very website on github.com!
 
 Hooray! I cloned the repo onto my local machine. I created an index.html, committed it and pushed it.
 
