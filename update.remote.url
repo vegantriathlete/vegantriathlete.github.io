@@ -1,0 +1,2 @@
+I manually went into .git/config and changed the section for origin
+to point to the new URL. Let's see how it works now.
