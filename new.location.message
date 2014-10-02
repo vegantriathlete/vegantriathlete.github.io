@@ -1,0 +1,19 @@
+isaacsonwebdevelopment@IWD-Lenovo-G560:~/VersionControlledCode/vegantriathlete.github.com$ git status
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+nothing to commit (working directory clean)
+isaacsonwebdevelopment@IWD-Lenovo-G560:~/VersionControlledCode/vegantriathlete.github.com$ git push origin master
+Counting objects: 4, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 599 bytes, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/vegantriathlete/vegantriathlete.github.io.git
+To git@github.com:vegantriathlete/vegantriathlete.github.com.git
+   07c0f45..f8981f9  master -> master
+
+==========
+
+So, I guess I need to figure out how to change the remote mapping.
