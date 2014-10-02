@@ -17,3 +17,10 @@ To git@github.com:vegantriathlete/vegantriathlete.github.com.git
 ==========
 
 So, I guess I need to figure out how to change the remote mapping.
+
+Manually changing the URL in .git/config as suggested above DID change it
+to use https protocol. That was a drag.
+Removing the entire repo and cloning again set the URL to be
+git@github.com:vegantriathlete/vegantriathlete.github.io.git
+which uses the ssh protocol. That protocol uses my key pair so that I don't
+have to enter the username and password when I want to push.
