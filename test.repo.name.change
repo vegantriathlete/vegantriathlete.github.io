@@ -1,0 +1,5 @@
+I am in my local repo creating a new file.
+I am doing this after I used the Rename feature in the Settings to
+change the repo from vegantriathlete.github.com to vegantriathlete.github.io.
+I want to see if the push updates the repo, since when I do a
+git show remote origin, it still references a .com repo name.
